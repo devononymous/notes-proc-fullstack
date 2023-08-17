@@ -1,4 +1,4 @@
-                                          📝 MyNotes App - A MERN Stack CRUD Application
+ 📝 MyNotes App - A MERN Stack CRUD Application
 
 Welcome to MyNotes App! This is a simple yet powerful MERN (MongoDB, Express, React, Node.js) stack application that allows you to manage your notes effectively. With this app, you can create, read, update, and delete your notes seamlessly.
 
