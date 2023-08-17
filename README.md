@@ -18,14 +18,13 @@ Backend: Node.js and Express.js for server-side logic.
 Database: MongoDB for efficient and scalable data storage.
 Styling: CSS (or CSS pre-processor) for layout and design.
 Version Control: Git for collaborative development.
-Deployment: Deployed on platforms like Heroku, Netlify, or Vercel.
 
 ⚙️ Installation and Setup
 
 Clone the repository: git clone https://github.com/devononymous/notes-proc-fullstack/tree/main
 Navigate to the project directory: cd mynotes-app
-Install frontend dependencies: cd client && npm install
-Install backend dependencies: cd ../server && npm install
+Install frontend dependencies: cd/backend/npm install
+Install backend dependencies: cd/frontend/ npm install
 Configure the MongoDB connection: Update server/config/config.js with your MongoDB URI.
 Start the server and client concurrently: npm run dev
 
