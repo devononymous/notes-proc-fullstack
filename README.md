@@ -21,7 +21,7 @@ Version Control: Git for collaborative development.
 
 ⚙️ Installation and Setup
 
-Clone the repository: git clone https://github.com/devononymous/notes-proc-fullstack/tree/main
+Clone the repository: git clone https://github.com/devononymous/notes-proc-fullstack
 Navigate to the project directory: cd mynotes-app
 Install frontend dependencies: cd/backend/npm install
 Install backend dependencies: cd/frontend/ npm install
